@@ -1,0 +1,17 @@
+{
+  "name": "data-structure-and-algorithms-from-mosh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "node dist/index.js",
+    "run": "npx tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.19",
+    "typescript": "^4.9.5"
+  }
+}
